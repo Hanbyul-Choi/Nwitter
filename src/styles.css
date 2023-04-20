@@ -224,6 +224,7 @@ form {
   justify-content: space-between;
   width: 100%;
   max-width: 320px;
+  margin-inline: 20px;
 }
 
 .authBtn {
